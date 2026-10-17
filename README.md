@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm a Computer Science Student 👋
 
-<!--
-**chamodwijayalath/ChamodWijayalath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 Computer Science undergraduate in Sri Lanka
+- 🐍 Currently learning Python and software development
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- 🔬 Exploring computer science research and scientific problem-solving
+- 🚀 Building projects to solve practical problems and support business ideas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Learning Goals
+- Python programming fundamentals
+- Data Structures and Algorithms
+- Git and GitHub
+- SQL and Database Management
+- Web Development
+- Data Science and Machine Learning
+
+## Projects
+Projects will be added here as I learn, build, test, and improve.
+
+## Research Interests
+- Artificial Intelligence
+- Machine Learning
+- AI for scientific discovery
+- Data-driven problem-solving
+
+## My Approach
+Learn consistently, build practical projects, document what I discover, and contribute to the developer community.
+
+---
+*This profile will grow as I learn and build new things.*
+
